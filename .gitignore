@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Binaries
+/Intermediate
+/Saved
+/Content/Maps/Level_Battle_BuiltData.uasset
+/Content/Maps/Level_Test_BuiltData.uasset
+/Content/Maps/SharedAssets
+
+/Content/Maps/._Level_Battle.umap
+/Content/Maps/._Level_Battle_BuiltData.uasset
+/Content/Maps/._Level_Lobby.umap
+/Content/Maps/._Level_Lobby_BuiltData.uasset
+/Content/Maps/._SharedAssets
