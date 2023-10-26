@@ -373,3 +373,5 @@ FodyWeavers.xsd
 /Content/Maps/._Level_Lobby.umap
 /Content/Maps/._Level_Lobby_BuiltData.uasset
 /Content/Maps/._SharedAssets
+*.umap
+/Content/Assets
